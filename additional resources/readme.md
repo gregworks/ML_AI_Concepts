@@ -70,3 +70,6 @@ You may prefer to do some self-guided research into an area that ML is being app
 * [Attacking Machine Learning With Adversarial Samples](https://openai.com/blog/adversarial-example-research/)
 * [Amazon Scraps Secret Resume Scanning Tool](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-againstwomen-idUSKCN1MK08G)
 * [Machine Bias in U.S. Justice System](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
+## Additional E-book for the Math & Python Code of many ML Concepts:
+[An Introduction to Statistical Learning](https://www.statlearning.com/)
